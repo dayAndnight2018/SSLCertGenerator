@@ -1,0 +1,8 @@
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\bin\Release\CreateCertification.exe.config
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\bin\Release\CreateCertification.exe
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\bin\Release\CreateCertification.pdb
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Release\CreateCertification.Form1.resources
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Release\CreateCertification.Properties.Resources.resources
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Release\CreateCertification.csproj.GenerateResource.Cache
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Release\CreateCertification.exe
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Release\CreateCertification.pdb

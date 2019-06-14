@@ -1,0 +1,26 @@
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\bin\Debug\CreateCertification.exe.config
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\obj\Debug\CreateCertification.Form1.resources
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\obj\Debug\CreateCertification.Properties.Resources.resources
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\obj\Debug\CreateCertification.csproj.GenerateResource.Cache
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\bin\Debug\CreateCertification.exe
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\bin\Debug\CreateCertification.pdb
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\obj\Debug\CreateCertification.exe
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\obj\Debug\CreateCertification.pdb
+C:\MyProjects\WebApi2Book\src\CreateCertification\CreateCertification\obj\Debug\CreateCertification.csprojResolveAssemblyReference.cache
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\bin\Debug\CreateCertification.exe.config
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\obj\Debug\CreateCertification.exe
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\obj\Debug\CreateCertification.pdb
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\bin\Debug\CreateCertification.exe
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\bin\Debug\CreateCertification.pdb
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\obj\Debug\CreateCertification.csprojResolveAssemblyReference.cache
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\obj\Debug\CreateCertification.Form1.resources
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\obj\Debug\CreateCertification.Properties.Resources.resources
+C:\Users\jm\Documents\Tencent Files\875402161\FileRecv\CreateCertification\CreateCertification\CreateCertification\obj\Debug\CreateCertification.csproj.GenerateResource.Cache
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\bin\Debug\CreateCertification.exe.config
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Debug\CreateCertification.exe
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Debug\CreateCertification.pdb
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\bin\Debug\CreateCertification.exe
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\bin\Debug\CreateCertification.pdb
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Debug\CreateCertification.Form1.resources
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Debug\CreateCertification.Properties.Resources.resources
+C:\Users\jm\Desktop\CreateCertification\CreateCertification\obj\Debug\CreateCertification.csproj.GenerateResource.Cache
